@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Suraj Chakraborty</h1>
 <h3 align="center">A Passionate and Enthusiastic Data Scientist 💻</h3><br>
 
-<img align="right" alt="Coding" width="400" height ="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajc97&label=Profile%20views&color=0e75b6&style=flat" alt="surajc97" /> </p>
 
