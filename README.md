@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **surajchakraborty6@gmail.com**
 
-- 📄 Take a look at my Resume <a href="https://drive.google.com/file/d/1zkKVipiCg8U6z7-pHqcPYdV0o7f6Y0sk/view?usp=sharing"> Suraj-Chakraborty-pdf<a>
+- 📄 Take a look at my Resume <a href="https://drive.google.com/file/d/1vAQt2OylNxbuPYtivmKroF5P4qrP7U8o/view?usp=sharing"> Suraj-Chakraborty-pdf<a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
